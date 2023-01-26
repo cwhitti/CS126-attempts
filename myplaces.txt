@@ -1,0 +1,59 @@
+Lowell Observatory
+Upper Flagstaff
+planetarium, stars
+35.202416
+-111.665169
+
+Steep Leaf Lounge
+Downtown Flagstaff
+restaurant, tea
+35.198353
+-111.648692
+
+Cornish Pasties
+Downtown Flagstaff
+restaurant, bar
+35.194807
+-111.649137
+
+Health and Learning Center
+NAU Campus
+gym
+35.189348
+-111.651851
+
+Skydome
+NAU Campus
+stadium
+35.180485
+-111.652887
+
+Bushmaster Park
+East Flagstaff
+park, recreation
+35.217078
+-111.602392
+
+Buffalo Park
+Downtown Flagstaff
+park, recreation
+35.221616
+-111.633519
+
+Arizona Snowbowl Ski Resort
+Mount Humphrey
+ski, recreation
+35.331001
+-111.709753
+
+Walmart
+Flagstaff
+shopping, pharmacy
+35.176483
+-111.664606
+
+Dutch Bros Coffee
+Downtown Flagstaff
+coffee
+35.192269
+-111.642774
